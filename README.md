@@ -24,12 +24,12 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Marvel123g/chat-app.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://marvel123g.github.io/chat-app/)
 
 
 ## Author
 
-- Website - [Marvelous](https://www.your-site.com)
+- Website - [Marvelous](https://marvel123g.github.io/chat-app/))
 - Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [@ma.rvellous971]
 
